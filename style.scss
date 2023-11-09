@@ -1,0 +1,23 @@
+ 
+/*Define variables*/
+ $bgcolor: rgb(187, 17, 187);
+ $textcolor: rgb(128, 35, 128);
+ $fontsize: 18px;
+ 
+ /* Use the variables */
+ body {
+   background-color: $bgcolor;
+   color: $textcolor;
+   font-size: $fontsize;
+ }
+
+ .container{
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
+ h1{
+  color: white;
+ }
