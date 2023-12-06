@@ -1,4 +1,4 @@
-PWA-Projekt
+PWA-Project
 ================
-Loading... 
+A Progressive web application
 ------------ 
